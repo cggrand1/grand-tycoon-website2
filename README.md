@@ -1,0 +1,74 @@
+
+  <title>Grand Tycoon Enterprise</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    footer {
+      background: #eee;
+      padding: 1rem;
+      text-align: center;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Grand Tycoon Enterprise</h1>
+    <p>Revitalizing the Cedar Grove Community One Block at a Time</p>
+  </header>
+
+  <section>
+    <h2>About the Project</h2>
+    <p>
+      Grand Tycoon Enterprise is leading a bold initiative to transform six city blocks on Tulsa Street in the Cedar Grove Neighborhood. Our plan includes developing 20–35 shotgun-style duplex rental homes (1,200–1,500 sq ft per side) and opening key community businesses including a Butcher Market & Grocery, Mechanic Garage Shop, and Boutique.
+    </p>
+  </section>
+
+  <section>
+    <h2>Key Features</h2>
+    <ul>
+      <li>Affordable, energy-efficient duplex homes</li>
+      <li>Safe and walkable neighborhood with lighting and community watch</li>
+      <li>Local businesses that provide essential services and jobs</li>
+      <li>Respecting the legacy of long-term residents and families</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>
+      Grand Tycoon Enterprise LLC<br>
+      717 Crocket Street, Shreveport, LA 71101<br>
+      Phone: 318-252-8876<br>
+      Fax: 318-254-6474<br>
+      Email: <a href="mailto:support@grandtycoon.com">support@grandtycoon.com</a>
+    </p>
+  </section>
+
+  <footer>
+    &copy; 2025 Grand Tycoon Enterprise. All rights reserved.
+  </footer>
+</body>
+</html>
